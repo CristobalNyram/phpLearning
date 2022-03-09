@@ -98,6 +98,8 @@
           </form>
 
     </div>
+
+    <a href="./anamacion.php">Link para ver algo chistoso</a>
     
 </body>
 </html>
